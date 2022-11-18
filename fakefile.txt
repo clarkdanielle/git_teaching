@@ -1,2 +1,4 @@
 This is some text
 print('Hello World')
+
+import numpy as np
